@@ -1,3 +1,3 @@
 # Python More Classes
 
-This directory contains Python class exercises.
+This directory contains Python more classes exercises.
